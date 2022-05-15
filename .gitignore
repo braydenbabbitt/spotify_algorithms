@@ -1,0 +1,5 @@
+secrets/SpotifySecrets.py
+secrets/
+secrets
+.cache
+.vscode/*
